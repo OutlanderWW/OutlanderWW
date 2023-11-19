@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+The name's Outlander. I'm a student of the AGH University of Technology. I enjoy playing video games as well as Tabletop RPGs.
+I'm also currently trying to learn mathematical analysis and JAVA
 <!--
 **OutlanderWW/OutlanderWW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
